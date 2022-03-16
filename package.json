@@ -2,6 +2,9 @@
   "name": "frontend-project-lvl1",
   "version": "1.0.0",
   "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "description": "[![Actions Status](https://github.com/k3pz34rand/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/k3pz34rand/frontend-project-lvl1/actions)",
   "main": "index.js",
   "scripts": {
