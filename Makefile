@@ -1,5 +1,7 @@
 install: #установить пакеты
 	npm ci install
+brain-even:
+	node bin/brain-even.js
 
 brain-games:
 	node bin/brain-games.js
