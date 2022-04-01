@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import readlineSync from 'readline-sync';
 import answerCheck, { randomNumb, randomSign, generateQuesion } from '../src/calc.js';
 import userName from '../src/cli.js';
