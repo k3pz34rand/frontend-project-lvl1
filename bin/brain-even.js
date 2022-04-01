@@ -16,6 +16,7 @@ const checkNumber = (number, answer) => {
     }
     return `'${answer}' is wrong answer ;(. Correct answer 'yes'`;
   }
+  return 'error checkNumber function';
 };
 
 let rightAnswer = 0;
